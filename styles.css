@@ -1,3 +1,12 @@
 /* styles.css */
 
 /* Add styles here to customize the appearance of your app */
+
+html, body {
+	margin: 0px;
+	padding: 0px;
+	font-size: 10px;
+	/* color: #00ff00; */
+	font-family: arial;
+	/* text-shadow: 1px black; */
+}
